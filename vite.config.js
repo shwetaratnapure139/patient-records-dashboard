@@ -6,5 +6,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Jaruratcare_ReactTask/' // तुमच्या GitHub repo नावाशी match करा
+  base: '/Jaruratcare_ReactTask/' 
 })
