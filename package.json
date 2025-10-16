@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://shwetaratnapure139.github.io/Jaruratcare_ReactTask",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
